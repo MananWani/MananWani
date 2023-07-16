@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manan Wani</h1>
+<h1 align="center">Hi 👋, I'm Abdul Manan</h1>
 
 <h3 align="center">A passionate Developer with a background in Information Science Engineering from India.</h3>
 
