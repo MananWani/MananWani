@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdul Manan</h1>
-
-<h3 align="center">A passionate Developer with a background in Information Science Engineering from India.</h3>
+<!--
+<h3 align="center">A passionate Developer with a background in Information Science Engineering from India.</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MananWani&label=Profile%20views&color=0e75b6&style=flat" alt="MananWani" /> </p>
 
